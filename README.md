@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ### 📈 Github Stats:
 
-
+<!--
 <br>
 <a href="https://github.com/jainaarjav07">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true"> 
@@ -72,4 +72,9 @@ Here are some ideas to get you started:
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jainaarjav&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <br>
 <br>
- 
+-->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
