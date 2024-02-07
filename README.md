@@ -60,17 +60,17 @@ Here are some ideas to get you started:
 
 <br>
 <a href="https://github.com/jainaarjav07">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav07&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav07&theme=midnight-purple)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav&theme=midnight-purple)](https://git.io/streak-stats)
 
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav07&layout=compact&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav&layout=compact&theme=midnight-purple" />
 </a>
 <br>
 <br>
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jainaarjav07&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jainaarjav&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <br>
 <br>
 
