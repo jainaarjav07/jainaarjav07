@@ -59,15 +59,13 @@ Here are some ideas to get you started:
 
 
 <br>
-<a href="https://github.com/jainaarjav">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav&theme=midnight-purple)](https://git.io/streak-stats)
+<a href="https://github.com/jainaarjav07">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav07&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav07&theme=midnight-purple)](https://git.io/streak-stats)
 
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav07&layout=compact&theme=midnight-purple" />
 </a>
 <br>
 <br>
