@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jainaarjav&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav)](https://git.io/streak-stats)
