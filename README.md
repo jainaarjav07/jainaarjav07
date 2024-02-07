@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)] 
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
  
 <h1 align="center">Hi 👋, I'm Aarjav Jain</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
@@ -67,6 +67,10 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jainaarjav&layout=compact&theme=blue-green" />
 </a>
 <br>
-<br><br>
+<br>
+
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KISHANsingh0001&theme=blue-green&line_height=20&hide=css"/> </a>
+<br>
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav)](https://git.io/streak-stats)
