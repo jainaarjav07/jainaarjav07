@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
   
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE From Lovely Professional University** <br>
-- 🏫 I’m currently learning **Data Structures And MERN Stack Development** <br>
+- 🏫 I’m currently learning **Data Structures And FULL Stack Development** <br>
 - 🙌 I’m looking to collaborate on **Web Projects** <br>
  - 🥅 Upcoming Goals: **Contribute to open source and learn DSA & Development** <br>
 
@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 <br>
 <a href="https://github.com/jainaarjav">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainaarjav&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav&theme=midnight-purple)](https://git.io/streak-stats)
+
 </a>
 <br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
@@ -73,4 +76,3 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav)](https://git.io/streak-stats)
