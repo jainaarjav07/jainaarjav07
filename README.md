@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jainaarjav07&show_icons=true&locale=en&theme=tokyonight" alt="jainaarjav07" /></p>
 
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainaarjav07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jainaarjav07" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainaarjav07&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jainaarjav07" /></p>
+ <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav07&&theme=tokyonight" alt="jainaarjav07" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav07&&theme=tokyonight" alt="jainaarjav07" /></p>
