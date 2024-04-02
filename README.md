@@ -79,3 +79,8 @@ Here are some ideas to get you started:
  <br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jainaarjav07&&theme=tokyonight" alt="jainaarjav07" /></p>
+
+
+### Snake-Eating My Contribution Graph:🐍📈
+
+<img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
